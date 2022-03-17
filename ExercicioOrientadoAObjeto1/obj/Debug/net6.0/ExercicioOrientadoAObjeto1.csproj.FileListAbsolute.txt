@@ -1,0 +1,15 @@
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\bin\Debug\net6.0\ExercicioOrientadoAObjeto1.exe
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\bin\Debug\net6.0\ExercicioOrientadoAObjeto1.deps.json
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\bin\Debug\net6.0\ExercicioOrientadoAObjeto1.runtimeconfig.json
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\bin\Debug\net6.0\ExercicioOrientadoAObjeto1.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\bin\Debug\net6.0\ref\ExercicioOrientadoAObjeto1.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\bin\Debug\net6.0\ExercicioOrientadoAObjeto1.pdb
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ExercicioOrientadoAObjeto1.csproj.AssemblyReference.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ExercicioOrientadoAObjeto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ExercicioOrientadoAObjeto1.AssemblyInfoInputs.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ExercicioOrientadoAObjeto1.AssemblyInfo.cs
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ExercicioOrientadoAObjeto1.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ExercicioOrientadoAObjeto1.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ref\ExercicioOrientadoAObjeto1.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ExercicioOrientadoAObjeto1.pdb
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto1\ExercicioOrientadoAObjeto1\obj\Debug\net6.0\ExercicioOrientadoAObjeto1.genruntimeconfig.cache
